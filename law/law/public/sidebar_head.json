@@ -1,0 +1,40 @@
+{
+   "sidebar":[
+    {
+        "title": "Dashboard",
+        "page": "dashboard-page",
+        "icon": "dashboard-list"
+    },
+    {
+        "title": "Cases",
+        "page": "case-page",
+        "icon": "duplicate"
+    },
+    {
+        "title": "Team",
+        "page": "team-page",
+        "icon": "users"
+    },
+    {
+        "title": "My Task",
+        "page": "my-task-page",
+        "icon": "support"
+    },
+    {
+        "title": "Vacation",
+        "page": "vacation-page",
+        "icon": "today"
+    },
+    {
+        "title": "Annual Calendar",
+        "page": "annual-calendar-page",
+        "icon": "calendar"
+    },
+    {
+        "title": "Documents",
+        "page": "document-page",
+        "icon": "file"
+    }
+
+   ]
+}

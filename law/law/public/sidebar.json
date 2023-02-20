@@ -1,0 +1,55 @@
+{
+   "sidebar":[
+    {
+        "title": "Overview",
+        "page": "overview",
+        "icon": "dashboard-list"
+    },
+    {
+        "title": "Cases",
+        "page": "case-page",
+        "icon": "duplicate"
+    },
+    {
+        "title": "Clients",
+        "page": "clients-page",
+        "icon": "users"
+    },
+    {
+        "title": "Employees",
+        "page": "employee-page",
+        "icon": "support"
+    },
+    {
+        "title": "Top Employees",
+        "page": "top-employee-page",
+        "icon": "star"
+    },
+    {
+        "title": "Vacation",
+        "page": "vacation-page",
+        "icon": "today"
+    },
+    {
+        "title": "Wallet",
+        "page": "wallet-page",
+        "icon": "sell"
+    },
+    {
+        "title": "Annual Calendar",
+        "page": "annual-calendar-page",
+        "icon": "calendar"
+    },
+    {
+        "title": "Requests",
+        "page": "request-page",
+        "icon": "card"
+    },
+    {
+        "title": "Documents",
+        "page": "document-page",
+        "icon": "file"
+    }
+
+   ]
+}
